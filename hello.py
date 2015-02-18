@@ -11,9 +11,7 @@ settings.configure(
     DEBUG = True,
     SECRET_KEY = 'yourrandomsecretkey',
     ROOT_URLCONF = __name__,
-    MIDDLEWARE_CLASSES = (
-        'django.middleware.common.CommonMiddleware',
-    ),
+    MIDDLEWARE_CLASSES = (),
 )
 
 """
