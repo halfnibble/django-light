@@ -8,7 +8,9 @@ python hello.py runserver
 ```
 
 Navigate with your web browser to
-```http://localhost:8000/```
+```
+http://localhost:8000/
+```
 
 # Credits
 The majority of this code and the concept is from the book:
